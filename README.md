@@ -48,7 +48,12 @@ Para el estudio, se utilizaron las transcripciones de los discursos del **29 de 
 - inversión
 - Gobierno
 
+### Conclusiones
+----
 
+En el discurso de enero, se observan términos asociados al Congreso y las elecciones, reflejando los temas de interés del gobierno en ese período. En contraste, en el discurso de julio destacan palabras como "proyectos", "inversión" y "desarrollo", lo que sugiere un enfoque orientado a la mejora y el crecimiento.
+
+En conclusión, estas herramientas permiten analizar la evolución del discurso presidencial a lo largo del tiempo, facilitando la identificación visual de los temas clave que el gobierno busca resaltar.
 
 
 ### Referencias
