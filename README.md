@@ -36,6 +36,8 @@ Para el estudio, se utilizaron las transcripciones de los discursos del **29 de 
 - elecciones
 - Congreso
 
+![](/images/d_01.png)
+
 **Discurso del 28 de julio de 2023, 10 palabras top:**
 - desarrollo
 - nivel
@@ -47,6 +49,8 @@ Para el estudio, se utilizaron las transcripciones de los discursos del **29 de 
 - país
 - inversión
 - Gobierno
+
+![](/images/d_02.png)
 
 ### Conclusiones
 ----
